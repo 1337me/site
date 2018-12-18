@@ -9,17 +9,17 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 disqusShortname = "kiddomonster"
+googleAnalytics = "UA-118963687-2"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#googleAnalytics = "XXX"
 
 [Params]
 # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Author from Golden Land Myanmar"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
-  since = "2017"
+  since = "2015"
   commit = false
   rss = true
   comments = true
