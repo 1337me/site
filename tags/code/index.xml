@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Hein Htet Kyaw&#39;s Personal</title>
+    <link>https://heinhtetkyaw.me/tags/code/</link>
+    <description>Recent content in Code on Hein Htet Kyaw&#39;s Personal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>me@heinhtetkyaw.me (Kiddo Monster)</managingEditor>
+    <webMaster>me@heinhtetkyaw.me (Kiddo Monster)</webMaster>
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://heinhtetkyaw.me/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Sample</title>
+      <link>https://heinhtetkyaw.me/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>me@heinhtetkyaw.me (Kiddo Monster)</author>
+      <guid>https://heinhtetkyaw.me/post/2016-03-08-code-sample/</guid>
+      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
