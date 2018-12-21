@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://heinhtetkyaw.me/post/2018-12-20-first-post/</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <loc>https://heinhtetkyaw.me/post/personal-website-is-up/</loc>
+    <lastmod>2018-12-21T07:46:25+06:30</lastmod>
   </url>
   
   <url>
@@ -21,23 +21,29 @@
   </url>
   
   <url>
-    <loc>https://heinhtetkyaw.me/books/</loc>
-  </url>
-  
-  <url>
     <loc>https://heinhtetkyaw.me/</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-21T07:46:25+06:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://heinhtetkyaw.me/books/</loc>
+  </url>
+  
+  <url>
     <loc>https://heinhtetkyaw.me/post/</loc>
-    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-21T07:46:25+06:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinhtetkyaw.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinhtetkyaw.me/tags/%E1%80%91%E1%80%BD%E1%80%B1%E1%80%9B%E1%80%AC%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8/</loc>
+    <lastmod>2018-12-21T07:46:25+06:30</lastmod>
     <priority>0</priority>
   </url>
   

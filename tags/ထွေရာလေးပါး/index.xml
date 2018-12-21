@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diary</title>
-    <link>https://heinhtetkyaw.me/</link>
-    <description>Recent content on Diary</description>
+    <title>ထွေရာလေးပါး on Diary</title>
+    <link>https://heinhtetkyaw.me/tags/%E1%80%91%E1%80%BD%E1%80%B1%E1%80%9B%E1%80%AC%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8/</link>
+    <description>Recent content in ထွေရာလေးပါး on Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>me@heinhtetkyaw.me (Kiddo)</managingEditor>
     <webMaster>me@heinhtetkyaw.me (Kiddo)</webMaster>
     <lastBuildDate>Fri, 21 Dec 2018 07:46:25 +0630</lastBuildDate>
     
-	<atom:link href="https://heinhtetkyaw.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heinhtetkyaw.me/tags/%E1%80%91%E1%80%BD%E1%80%B1%E1%80%9B%E1%80%AC%E1%80%9C%E1%80%B1%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,36 +20,6 @@
       <guid>https://heinhtetkyaw.me/post/personal-website-is-up/</guid>
       <description>ပထမဆုံး Personal Website လေးကို ဒီနေ့ပဲ Launch လုပ်ခဲ့ပါတယ် 😬 Kiddo Monster ရှိပေမယ့် ဒီမှာကတော့ Personal နဲ့ဆိုင်တဲ့အကြောင်းအရာတွေ အများကြီး ရေးဖြစ်အောင် ကြိုးစားမယ်ပေါ့။ အနည်းဆုံးတော့ မသေခင် ရင်ဖွင့်လို့ရတဲ့ တစ်နေရာတော့ ကျွန်တော် ရှိအောင်လုပ်သွားချင်တဲ့ ဆန္ဒနဲ့ပေါ့ဗျာ 😆
 ဒီ Website လေးကိုတော့ Hugo ကိုအသုံးပြုထားပြီးတော့ Github မှာ တင်ထားတာပါ။ ကိုယ်တိုင်လဲ စမ်းထားတာဆိုပေမယ့် အဆင်မပြေတာရှိရင်တော့ မေးမြန်းနိုင်ပါတယ်ဗျာ။ ကျွန်တော်လဲ သေချာရွှီးပါ့မယ်ဗျာ 😆</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://heinhtetkyaw.me/__index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>me@heinhtetkyaw.me (Kiddo)</author>
-      <guid>https://heinhtetkyaw.me/__index/</guid>
-      <description>Front Page Content beautifulhugo supports content on your front page. Edit /content/_index.md to change what appears here. Delete /content/_index.md if you don&amp;rsquo;t want any content here.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://heinhtetkyaw.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>me@heinhtetkyaw.me (Kiddo)</author>
-      <guid>https://heinhtetkyaw.me/about/</guid>
-      <description>My name is Hein Htet Kyaw. I have the following qualities:
- 2008 - Computer A+ 2010 - Windows Special ( Office ) Course. 2016 - Network / Internet Engineering, Administration &amp;amp; System Development.  Want More ?  Follow me on Facebook Follow me on Twitter  To be honest, I&amp;rsquo;m having some trouble remembering right now, so don&amp;rsquo;t ask me about High School.</description>
-    </item>
-    
-    <item>
-      <title>E-books</title>
-      <link>https://heinhtetkyaw.me/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>me@heinhtetkyaw.me (Kiddo)</author>
-      <guid>https://heinhtetkyaw.me/books/</guid>
-      <description>I wrote following E-Books for you:
- 2013 - Step by Step Blogger 2014 - Install Kali Linux 2015 - Unlock &amp;amp; Root Honor 3c  What else do you need?
- Comment Below for book you want to read.  </description>
     </item>
     
   </channel>

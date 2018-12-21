@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hein Htet Kyaw&#39;s Personal</title>
+    <title>Categories on Diary</title>
     <link>https://heinhtetkyaw.me/categories/</link>
-    <description>Recent content in Categories on Hein Htet Kyaw&#39;s Personal</description>
+    <description>Recent content in Categories on Diary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>me@heinhtetkyaw.me (Kiddo Monster)</managingEditor>
-    <webMaster>me@heinhtetkyaw.me (Kiddo Monster)</webMaster>
+    <managingEditor>me@heinhtetkyaw.me (Kiddo)</managingEditor>
+    <webMaster>me@heinhtetkyaw.me (Kiddo)</webMaster>
     
 	<atom:link href="https://heinhtetkyaw.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
